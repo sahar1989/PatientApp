@@ -27,7 +27,7 @@
     <div class="container">
       <h2>Add new patient</h2>
       <div class="form-group">
-        <form method="post" action="/save">
+        <form method="post" action="save">
           <table class="table">
             <tr><td>First Name: </td><td><input class="form-control" type="text" id="first_name" name="first_name"></td></tr>
             <tr><td>Last Name: </td><td><input class="form-control" type="text" id="last_name" name="last_name"></td></tr>
