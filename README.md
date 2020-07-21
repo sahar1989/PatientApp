@@ -17,6 +17,8 @@
          operations are: 
          insert (/save) / fetch all data (/list) / fetch data by id (/view) / print error 
           
+         DataBase: PatientDB, user: Admin, password: Admin123
+         
          ---- model
          includes patient java model class
          fields:
