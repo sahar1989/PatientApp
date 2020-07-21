@@ -1,7 +1,7 @@
 # Patient Website
 
 ####The application has developed by Inteliji IDEA 2017
-####Java servlet application which runs by tomcat server 9 
+####Java servlet application / Maven / tomcat server 9 
 
 #####Directoires
 * **src**
