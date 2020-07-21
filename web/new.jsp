@@ -31,7 +31,7 @@
             <tr><td>First Name: </td><td><input class="form-control" type="text" id="first_name" name="first_name"></td></tr>
             <tr><td>Last Name: </td><td><input class="form-control" type="text" id="last_name" name="last_name"></td></tr>
             <tr><td>Age: </td><td><input class="form-control" type="text" id="age" name="age"></td></tr>
-            <tr><td>Birth Date: </td><td><input class="form-control" placeholder="yyyy/MM/dd" type="text" id="birth_date" name="birth_date" onkeyup="checkFormat();"></td></tr>
+            <tr><td>Birth Date: </td><td><input class="form-control" placeholder="yyyy/MM/dd" type="text" id="birth_date" name="birth_date" ></td></tr>
           </table>
           <button onclick="location.href='/list'" class="btn btn-info">Back</button>
           <button type="submit" value="Submit" class="btn btn-success">Save</button>

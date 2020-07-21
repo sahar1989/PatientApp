@@ -9,7 +9,6 @@
 <html>
 <head>
     <title>Patient list</title>
-    <script src="js/patient.js" type="text/javascript"></script>
     <link rel="stylesheet"  href="css/patient.css" >
     <link rel="stylesheet"  href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" >
 </head>
