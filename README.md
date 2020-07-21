@@ -3,6 +3,17 @@
 ####The application has developed by Inteliji IDEA 2017
 ####Java servlet application / Maven / tomcat server 9 
 
+#Note: for run application without InteliJi IDE and just by Tomcat server 
+
+You can deploy the WAR file in tomcat server and run the project.
+Note: you need to set the user name and password in tomcat go to path  /conf/tomcat-user.xml
+put these two lines
+<role rolename="manager-gui"/>
+<user username="admin" password="admin" roles="manager-gui"/>
+
+then run tomcat server -> localhost:8080/manager
+then deploy the WAR file
+
 #####Directoires
 * **src**
 
